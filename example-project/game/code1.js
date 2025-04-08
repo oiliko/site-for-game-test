@@ -2,8 +2,6 @@ gdjs.Level_321Code = {};
 gdjs.Level_321Code.localVariables = [];
 gdjs.Level_321Code.GDIndustrialPlatformCenterObjects1= [];
 gdjs.Level_321Code.GDIndustrialPlatformCenterObjects2= [];
-gdjs.Level_321Code.GDCat2Objects1= [];
-gdjs.Level_321Code.GDCat2Objects2= [];
 gdjs.Level_321Code.GDSwordObjects1= [];
 gdjs.Level_321Code.GDSwordObjects2= [];
 gdjs.Level_321Code.GDGoldCoinObjects1= [];
@@ -22,6 +20,8 @@ gdjs.Level_321Code.GDScoreObjects1= [];
 gdjs.Level_321Code.GDScoreObjects2= [];
 gdjs.Level_321Code.GDDesertBackgroundObjects1= [];
 gdjs.Level_321Code.GDDesertBackgroundObjects2= [];
+gdjs.Level_321Code.GDCat2Objects1= [];
+gdjs.Level_321Code.GDCat2Objects2= [];
 
 
 gdjs.Level_321Code.mapOfGDgdjs_9546Level_9595321Code_9546GDCat2Objects1Objects = Hashtable.newFrom({"Cat2": gdjs.Level_321Code.GDCat2Objects1});
@@ -263,8 +263,6 @@ runtimeScene.getOnceTriggers().startNewFrame();
 
 gdjs.Level_321Code.GDIndustrialPlatformCenterObjects1.length = 0;
 gdjs.Level_321Code.GDIndustrialPlatformCenterObjects2.length = 0;
-gdjs.Level_321Code.GDCat2Objects1.length = 0;
-gdjs.Level_321Code.GDCat2Objects2.length = 0;
 gdjs.Level_321Code.GDSwordObjects1.length = 0;
 gdjs.Level_321Code.GDSwordObjects2.length = 0;
 gdjs.Level_321Code.GDGoldCoinObjects1.length = 0;
@@ -283,12 +281,12 @@ gdjs.Level_321Code.GDScoreObjects1.length = 0;
 gdjs.Level_321Code.GDScoreObjects2.length = 0;
 gdjs.Level_321Code.GDDesertBackgroundObjects1.length = 0;
 gdjs.Level_321Code.GDDesertBackgroundObjects2.length = 0;
+gdjs.Level_321Code.GDCat2Objects1.length = 0;
+gdjs.Level_321Code.GDCat2Objects2.length = 0;
 
 gdjs.Level_321Code.eventsList0(runtimeScene);
 gdjs.Level_321Code.GDIndustrialPlatformCenterObjects1.length = 0;
 gdjs.Level_321Code.GDIndustrialPlatformCenterObjects2.length = 0;
-gdjs.Level_321Code.GDCat2Objects1.length = 0;
-gdjs.Level_321Code.GDCat2Objects2.length = 0;
 gdjs.Level_321Code.GDSwordObjects1.length = 0;
 gdjs.Level_321Code.GDSwordObjects2.length = 0;
 gdjs.Level_321Code.GDGoldCoinObjects1.length = 0;
@@ -307,6 +305,8 @@ gdjs.Level_321Code.GDScoreObjects1.length = 0;
 gdjs.Level_321Code.GDScoreObjects2.length = 0;
 gdjs.Level_321Code.GDDesertBackgroundObjects1.length = 0;
 gdjs.Level_321Code.GDDesertBackgroundObjects2.length = 0;
+gdjs.Level_321Code.GDCat2Objects1.length = 0;
+gdjs.Level_321Code.GDCat2Objects2.length = 0;
 
 
 return;

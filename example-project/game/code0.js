@@ -6,8 +6,6 @@ gdjs.Start_32gameCode.GDNewTextObjects1= [];
 gdjs.Start_32gameCode.GDNewTextObjects2= [];
 gdjs.Start_32gameCode.GDWhiteSquareDecoratedButtonObjects1= [];
 gdjs.Start_32gameCode.GDWhiteSquareDecoratedButtonObjects2= [];
-gdjs.Start_32gameCode.GDCat2Objects1= [];
-gdjs.Start_32gameCode.GDCat2Objects2= [];
 gdjs.Start_32gameCode.GDSwordObjects1= [];
 gdjs.Start_32gameCode.GDSwordObjects2= [];
 gdjs.Start_32gameCode.GDGoldCoinObjects1= [];
@@ -26,6 +24,8 @@ gdjs.Start_32gameCode.GDScoreObjects1= [];
 gdjs.Start_32gameCode.GDScoreObjects2= [];
 gdjs.Start_32gameCode.GDDesertBackgroundObjects1= [];
 gdjs.Start_32gameCode.GDDesertBackgroundObjects2= [];
+gdjs.Start_32gameCode.GDCat2Objects1= [];
+gdjs.Start_32gameCode.GDCat2Objects2= [];
 
 
 gdjs.Start_32gameCode.eventsList0 = function(runtimeScene) {
@@ -62,8 +62,6 @@ gdjs.Start_32gameCode.GDNewTextObjects1.length = 0;
 gdjs.Start_32gameCode.GDNewTextObjects2.length = 0;
 gdjs.Start_32gameCode.GDWhiteSquareDecoratedButtonObjects1.length = 0;
 gdjs.Start_32gameCode.GDWhiteSquareDecoratedButtonObjects2.length = 0;
-gdjs.Start_32gameCode.GDCat2Objects1.length = 0;
-gdjs.Start_32gameCode.GDCat2Objects2.length = 0;
 gdjs.Start_32gameCode.GDSwordObjects1.length = 0;
 gdjs.Start_32gameCode.GDSwordObjects2.length = 0;
 gdjs.Start_32gameCode.GDGoldCoinObjects1.length = 0;
@@ -82,6 +80,8 @@ gdjs.Start_32gameCode.GDScoreObjects1.length = 0;
 gdjs.Start_32gameCode.GDScoreObjects2.length = 0;
 gdjs.Start_32gameCode.GDDesertBackgroundObjects1.length = 0;
 gdjs.Start_32gameCode.GDDesertBackgroundObjects2.length = 0;
+gdjs.Start_32gameCode.GDCat2Objects1.length = 0;
+gdjs.Start_32gameCode.GDCat2Objects2.length = 0;
 
 gdjs.Start_32gameCode.eventsList0(runtimeScene);
 gdjs.Start_32gameCode.GDBackgroundBlueDesertObjects1.length = 0;
@@ -90,8 +90,6 @@ gdjs.Start_32gameCode.GDNewTextObjects1.length = 0;
 gdjs.Start_32gameCode.GDNewTextObjects2.length = 0;
 gdjs.Start_32gameCode.GDWhiteSquareDecoratedButtonObjects1.length = 0;
 gdjs.Start_32gameCode.GDWhiteSquareDecoratedButtonObjects2.length = 0;
-gdjs.Start_32gameCode.GDCat2Objects1.length = 0;
-gdjs.Start_32gameCode.GDCat2Objects2.length = 0;
 gdjs.Start_32gameCode.GDSwordObjects1.length = 0;
 gdjs.Start_32gameCode.GDSwordObjects2.length = 0;
 gdjs.Start_32gameCode.GDGoldCoinObjects1.length = 0;
@@ -110,6 +108,8 @@ gdjs.Start_32gameCode.GDScoreObjects1.length = 0;
 gdjs.Start_32gameCode.GDScoreObjects2.length = 0;
 gdjs.Start_32gameCode.GDDesertBackgroundObjects1.length = 0;
 gdjs.Start_32gameCode.GDDesertBackgroundObjects2.length = 0;
+gdjs.Start_32gameCode.GDCat2Objects1.length = 0;
+gdjs.Start_32gameCode.GDCat2Objects2.length = 0;
 
 
 return;

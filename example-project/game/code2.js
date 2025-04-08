@@ -2,8 +2,6 @@ gdjs.Level_322Code = {};
 gdjs.Level_322Code.localVariables = [];
 gdjs.Level_322Code.GDSandObjects1= [];
 gdjs.Level_322Code.GDSandObjects2= [];
-gdjs.Level_322Code.GDCat2Objects1= [];
-gdjs.Level_322Code.GDCat2Objects2= [];
 gdjs.Level_322Code.GDSwordObjects1= [];
 gdjs.Level_322Code.GDSwordObjects2= [];
 gdjs.Level_322Code.GDGoldCoinObjects1= [];
@@ -22,6 +20,8 @@ gdjs.Level_322Code.GDScoreObjects1= [];
 gdjs.Level_322Code.GDScoreObjects2= [];
 gdjs.Level_322Code.GDDesertBackgroundObjects1= [];
 gdjs.Level_322Code.GDDesertBackgroundObjects2= [];
+gdjs.Level_322Code.GDCat2Objects1= [];
+gdjs.Level_322Code.GDCat2Objects2= [];
 
 
 gdjs.Level_322Code.mapOfGDgdjs_9546Level_9595322Code_9546GDCat2Objects1Objects = Hashtable.newFrom({"Cat2": gdjs.Level_322Code.GDCat2Objects1});
@@ -285,8 +285,6 @@ runtimeScene.getOnceTriggers().startNewFrame();
 
 gdjs.Level_322Code.GDSandObjects1.length = 0;
 gdjs.Level_322Code.GDSandObjects2.length = 0;
-gdjs.Level_322Code.GDCat2Objects1.length = 0;
-gdjs.Level_322Code.GDCat2Objects2.length = 0;
 gdjs.Level_322Code.GDSwordObjects1.length = 0;
 gdjs.Level_322Code.GDSwordObjects2.length = 0;
 gdjs.Level_322Code.GDGoldCoinObjects1.length = 0;
@@ -305,12 +303,12 @@ gdjs.Level_322Code.GDScoreObjects1.length = 0;
 gdjs.Level_322Code.GDScoreObjects2.length = 0;
 gdjs.Level_322Code.GDDesertBackgroundObjects1.length = 0;
 gdjs.Level_322Code.GDDesertBackgroundObjects2.length = 0;
+gdjs.Level_322Code.GDCat2Objects1.length = 0;
+gdjs.Level_322Code.GDCat2Objects2.length = 0;
 
 gdjs.Level_322Code.eventsList0(runtimeScene);
 gdjs.Level_322Code.GDSandObjects1.length = 0;
 gdjs.Level_322Code.GDSandObjects2.length = 0;
-gdjs.Level_322Code.GDCat2Objects1.length = 0;
-gdjs.Level_322Code.GDCat2Objects2.length = 0;
 gdjs.Level_322Code.GDSwordObjects1.length = 0;
 gdjs.Level_322Code.GDSwordObjects2.length = 0;
 gdjs.Level_322Code.GDGoldCoinObjects1.length = 0;
@@ -329,6 +327,8 @@ gdjs.Level_322Code.GDScoreObjects1.length = 0;
 gdjs.Level_322Code.GDScoreObjects2.length = 0;
 gdjs.Level_322Code.GDDesertBackgroundObjects1.length = 0;
 gdjs.Level_322Code.GDDesertBackgroundObjects2.length = 0;
+gdjs.Level_322Code.GDCat2Objects1.length = 0;
+gdjs.Level_322Code.GDCat2Objects2.length = 0;
 
 
 return;
